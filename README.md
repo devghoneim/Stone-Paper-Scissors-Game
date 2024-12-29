@@ -35,3 +35,7 @@ Add new features or improvements.
 
 Submit a Pull Request with a clear description of the changes.
 
+
+## Gameplay Video 🎮
+
+[![Watch the Video]](https://www.youtube.com/watch?v=gPifZTwL0AU)
