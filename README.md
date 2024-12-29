@@ -35,4 +35,7 @@ Add new features or improvements.
 
 Submit a Pull Request with a clear description of the changes.
 
+## Gameplay Video 🎮
+
+https://github.com/user-attachments/assets/b7ed0e54-3769-4605-a1f6-c0cbae2b3d61
 
